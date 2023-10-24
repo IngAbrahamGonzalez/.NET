@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7f2aKan724Bt9FLMj5KFmwttX81wjady9hOGMW0FbuXhHOwRx4Ycn3PlGzXrdqy05Bhb4nK6el01T91NfuTeRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\astro\\.NET\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

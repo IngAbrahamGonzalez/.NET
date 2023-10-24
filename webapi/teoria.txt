@@ -1,0 +1,5 @@
+GET : permite obtener y leer recursos
+POST : creacion de recursos 
+PUT : actualizacion de un registro
+PATCH : actualizacionparcial de un registro
+DELETE : eliminacion de un recurso
